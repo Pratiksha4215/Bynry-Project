@@ -1,0 +1,1 @@
+python manage.py runserver this command will run the server.This command will start the development server, and you'll see output indicating that the server is running, along with the URL where you can access your application (usually http://127.0.0.1:8000/).
